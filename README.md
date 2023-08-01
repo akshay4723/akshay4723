@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Akshay</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
