@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
