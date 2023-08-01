@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 💫 My Inspiration IRON MAN
+- 💫 My Inspiration **IRON MAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
