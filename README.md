@@ -17,11 +17,7 @@
 
 - 💫 My Inspiration **IRON MAN**
 
-
-
-
-  **"Sometimes you've gotta run before you can walk"**
--                                         **Iron Man**
+- **"Sometimes you've gotta run before you can walk"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
