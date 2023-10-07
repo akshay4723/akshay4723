@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Akshay</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
