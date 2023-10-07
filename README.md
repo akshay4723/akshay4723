@@ -20,9 +20,7 @@
 - **"Sometimes you've gotta run before you can walk"**
 
 
-<img align = "center" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
-
-
+<img align = "left" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
 
 <h3 align="left">Connect with me:</h3>
