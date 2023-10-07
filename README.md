@@ -19,6 +19,12 @@
 
 - **"Sometimes you've gotta run before you can walk"**
 
+
+<img align = "center" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ak.dl.47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak.dl.47" height="30" width="70" /></a>
