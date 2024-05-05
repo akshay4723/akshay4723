@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay4723&label=Profile%20views&color=0e75b6&style=flat" alt="akshay4723" /> </p>
 
-- 🔭 I’m currently working on **Android Studio**
+- 🔭 I’m currently working on **VFX Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshay4723?tab=repositories](https://github.com/akshay4723?tab=repositories)
 
