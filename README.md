@@ -22,6 +22,8 @@
 
 <img align = "centre" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
+<img align = "centre" alt = "coding" width = "400" src = "https://i.gifer.com/J4o.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
