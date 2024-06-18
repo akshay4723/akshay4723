@@ -35,4 +35,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akshay4723&show_icons=true&locale=en" alt="akshay4723" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay4723&" alt="akshay4723" /></p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay4723&" alt="akshay4723" style="margin-top: 20px;" />
+</p>
+
